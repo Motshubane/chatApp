@@ -1,4 +1,5 @@
 # chatApp
+#To view app click on the following link: https://nodejssockeiochat.herokuapp.com/
 
 in this project we were challengwed to take on a projecrt of our choice, i chose a chat app as i believe it will help me learn and improve on the following technologies: html, css, javascript and node js. 
 
